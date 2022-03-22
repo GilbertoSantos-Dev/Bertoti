@@ -1,2 +1,1 @@
-# bertoti
-Fatec TG
+# TG de Banco de Dados
